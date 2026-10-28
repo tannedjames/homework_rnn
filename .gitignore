@@ -1,5 +1,4 @@
-# Dataset (66 MB) - download from Kaggle, see README
-data/*.csv
-data/*.zip
-__pycache__/
+# Dataset (66 MB) - download from Kaggle
+*.csv
+data/
 .ipynb_checkpoints/
