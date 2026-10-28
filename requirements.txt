@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+torch
+matplotlib
+seaborn
+jupyter
+kagglehub  # optional: auto-download the dataset when data/IMDB Dataset.csv is missing
