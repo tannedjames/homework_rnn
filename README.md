@@ -5,6 +5,7 @@ The notebook trains recurrent neural networks and compares them with feed-forwar
 All models use the same train/validation/test split (80/10/10, duplicates removed first).
 
 Everything is in **[`sentiment_analysis.ipynb`](sentiment_analysis.ipynb)**. It is saved with outputs, so you can read the results without running it.
+A Vietnamese version (same code and results, with explanations, comments and discussion in Vietnamese) is in **[`sentiment_analysis_vi.ipynb`](sentiment_analysis_vi.ipynb)**.
 
 ## Models
 
